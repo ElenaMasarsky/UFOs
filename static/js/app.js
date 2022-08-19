@@ -21,7 +21,7 @@ function buildTable(data) {
         );
     });
 }
-function hanldeClick() {
+function handleClick() {
     // Grab the datetime value from the filter
     let date = d3.select("#datetime").property("value");
     let filteredData = tableData;
