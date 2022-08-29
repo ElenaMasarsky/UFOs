@@ -23,4 +23,4 @@ Since ancient times, the inquiring minds of mankind have been trying to solve th
 Other people are exposed to the fear of the unknown. Some even believe that life on Earth brought aliens.
 As part of the training, I had to participate in this project, so I would like to present on this page a link to an article that I think is fairly objective on this issue.  
 
-[Article](https://wol.jw.org/en/wol/d/r1/lp-e/101990802?q=UFO&p=par)
+[UFO’s​—Can They Be Identified?](https://wol.jw.org/en/wol/d/r1/lp-e/101990802)
