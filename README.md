@@ -21,5 +21,6 @@ We customize our webpage using Bootstrap, and equip our table with several fully
 ## My humble word abot the topic:
 Since ancient times, the inquiring minds of mankind have been trying to solve the mystery of the existence and origin of life. People are attracted to the unknown and the unexplored. Physical, chemical, and biological laws are incredibly complex and interesting.
 Other people are exposed to the fear of the unknown. Some even believe that life on Earth brought aliens.
-As part of the training, I had to participate in this project, so I would like to present on this page a link to an article that I think is fairly objective on this issue.
-![article](https://wol.jw.org/en/wol/d/r1/lp-e/101990802?q=UFO&p=par)
+As part of the training, I had to participate in this project, so I would like to present on this page a link to an article that I think is fairly objective on this issue.  
+
+[Article](https://wol.jw.org/en/wol/d/r1/lp-e/101990802?q=UFO&p=par)
